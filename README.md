@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan Rios  
 
-<!--
-**jrios93/jrios93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Developer | Python • JavaScript • FastAPI • Vue.js  
+🚀 Passionate about learning, building projects, and growing into a data-focused role.  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks:** FastAPI, Vue.js, reactjs  
+- **Tools:** Git, Docker, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects  
+- [survey project](https://github.com/jrios93/survey_project) – Fast api
+- [xbyte](https://github.com/jrios93/PROYECTO-XBYTE) - reactjs + typescript
+- [PIB-CHURCH](https://github.com/jrios93/pibChurch) – Astrojs
+- [HERRAMIENTA](https://github.com/jrios93/HERRAMIENTA_GOLANG) – Golang
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jrios93&show_icons=true&theme=radical)
+
+## 🌐 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/jc-rios/)
